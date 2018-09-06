@@ -1,5 +1,4 @@
 public class Operaciones{
-  private int totalsuma;
 
   public double DeterminarNumMayor(double num1, double num2, double num3){
 

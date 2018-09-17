@@ -7,6 +7,7 @@ public class OpMatrices{
     for (int i = 0; i < 2; i++){
       System.out.println("Matriz " + (i+1) + ": ");
       for (int j = 0; j < tam; j++){
+        System.out.print("[" + i + "]" + "[" + j + "]: ");
         arreglo1[i][j] = entrada.nextInt();
       }
     }
